@@ -1,5 +1,5 @@
 import { KeepersCard } from "../components";
-import { trainingDrillsData } from "../data/TrainingDrillsData"; 
+import { trainingDrillsData } from "../data/trainingDrillsData"; 
 
 
 export const Exercises = () => {

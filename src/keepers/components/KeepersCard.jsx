@@ -18,7 +18,7 @@ export const KeepersCard = ({ drills = [] }) => {
 
     <div className="training-section">
       <div className="training-header">
-        <h2>Training Drills</h2>
+        <h2>Home Training Drills</h2>
       </div>
 
       <div className="drill-grid">

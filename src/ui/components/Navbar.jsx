@@ -12,8 +12,9 @@ export const Navbar = () => {
         <Link className="navbar-brand" to="/home" onClick={() => setMenuOpen(false)}>
           <GiGoalKeeper className="navbar-brand-icon" />
           <div>
-            <span className="navbar-brand-label">Keeps</span>
-            <span className="navbar-brand-text">Academy</span>
+            <span className="navbar-brand-text">Keeps</span>
+            <span className="navbar-brand-label">GoalKeeper</span>
+            <span className="navbar-brand-label">Academy</span>
           </div>
         </Link>
 

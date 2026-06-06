@@ -38,7 +38,7 @@ export const ContactPage = () => {
             </div>
           </div>
           <p>Speak directly with our coaching staff to tailor the best path for your development.</p>
-          <a href="tel:+1234567890" className="contact-link">+1 (234) 567-890</a>
+          <a href="tel:+50496746331" className="contact-link">+504 9674-6331</a>
         </article>
 
         <article className="contact-card">
